@@ -1,0 +1,21 @@
+# Build output (CCS)
+Debug/
+Release/
+*.o
+*.obj
+*.out
+*.map
+*.d
+
+# Subversion working copy metadata
+.svn/
+
+# IDE / AI tooling caches
+.theia/
+.clangd
+.claude/
+.serena/
+
+# OS cruft
+Thumbs.db
+.DS_Store
